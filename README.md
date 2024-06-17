@@ -1,6 +1,8 @@
 # CLLocationManagerSimulation
 
 Location simulation (for CLLocationManager)
+In development ...
+
 
 ## Usage
 
